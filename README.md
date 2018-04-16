@@ -5,10 +5,8 @@ Description -
 Movie-Ticket app is an application which has the google vision library support for barcode scanner and it scans the qrcode/barcode 
 and waits for a reponse from the server.
 
-The server response contains the details of a mocie like time, name, amount, duration, image,qty etc. which is returned as a json file
-to the app and is stored in a json object inside the app. Later a ticket view is created using xml and is customized using java aw graphics
-tools to give the layout a look of ticket. All the ticket details are loaded in this layout and displayed to the user on scanning a particular
-qrcode.
+The server response contains the details of a movie like time, name, amount, duration, image,qty etc. which is returned as a json file
+to the app and is stored in a json object inside the app. Later a ticket view is created using xml and is customized using java awt graphic tools to give a look of ticket to the layout. All the ticket details are loaded in this layout and displayed to the user on scanning a particular qrcode.
 
 Developed By -
 --------------
